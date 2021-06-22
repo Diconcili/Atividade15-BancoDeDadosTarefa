@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\Atividade 15 - Banco de Dados Tarefas\Atividade 15 - Banco de Dados Tarefas\bin\Debug\Atividade 15 - Banco de Dados Tarefas.exe.config
+C:\Users\eduar\source\repos\Atividade 15 - Banco de Dados Tarefas\Atividade 15 - Banco de Dados Tarefas\bin\Debug\Atividade 15 - Banco de Dados Tarefas.exe
+C:\Users\eduar\source\repos\Atividade 15 - Banco de Dados Tarefas\Atividade 15 - Banco de Dados Tarefas\bin\Debug\Atividade 15 - Banco de Dados Tarefas.pdb
+C:\Users\eduar\source\repos\Atividade 15 - Banco de Dados Tarefas\Atividade 15 - Banco de Dados Tarefas\obj\Debug\Atividade 15 - Banco de Dados Tarefas.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\Atividade 15 - Banco de Dados Tarefas\Atividade 15 - Banco de Dados Tarefas\obj\Debug\Atividade 15 - Banco de Dados Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Atividade 15 - Banco de Dados Tarefas\Atividade 15 - Banco de Dados Tarefas\obj\Debug\Atividade 15 - Banco de Dados Tarefas.exe
+C:\Users\eduar\source\repos\Atividade 15 - Banco de Dados Tarefas\Atividade 15 - Banco de Dados Tarefas\obj\Debug\Atividade 15 - Banco de Dados Tarefas.pdb

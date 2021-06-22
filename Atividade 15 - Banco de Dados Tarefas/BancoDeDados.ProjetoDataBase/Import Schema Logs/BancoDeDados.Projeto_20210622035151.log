@@ -1,0 +1,84 @@
+22/06/2021 12:51:51	This log contains information about the import schema operation into project 'BancoDeDados.ProjetoDataBase' on computer 'DESKTOP-I604S6O' by user 'eduar'.
+22/06/2021 12:51:51	Import of database schema has started.
+22/06/2021 12:52:12	Gathering database credentials
+22/06/2021 12:52:12	Gathering database options
+22/06/2021 12:52:12	Gathering users
+22/06/2021 12:52:12	Gathering roles
+22/06/2021 12:52:12	Gathering application roles
+22/06/2021 12:52:12	Gathering role memberships
+22/06/2021 12:52:12	Gathering filegroups
+22/06/2021 12:52:12	Gathering full-text catalogs
+22/06/2021 12:52:12	Gathering assemblies
+22/06/2021 12:52:12	Gathering certificates
+22/06/2021 12:52:12	Gathering asymmetric keys
+22/06/2021 12:52:13	Gathering symmetric keys
+22/06/2021 12:52:13	Gathering encrypted symmetric keys
+22/06/2021 12:52:13	Gathering schemas
+22/06/2021 12:52:13	Gathering XML schema collections
+22/06/2021 12:52:13	Gathering user-defined data types
+22/06/2021 12:52:13	Gathering user-defined types
+22/06/2021 12:52:13	Gathering table types
+22/06/2021 12:52:13	Gathering unique keys for table types
+22/06/2021 12:52:13	Gathering primary keys for table types
+22/06/2021 12:52:13	Gathering indexes for table types
+22/06/2021 12:52:13	Gathering check constraints for table types
+22/06/2021 12:52:13	Gathering default constraints for table types
+22/06/2021 12:52:13	Gathering partition functions
+22/06/2021 12:52:13	Gathering partition schemes
+22/06/2021 12:52:20	Gathering functions
+22/06/2021 12:52:20	Gathering encrypted functions
+22/06/2021 12:52:20	Gathering aggregates
+22/06/2021 12:52:20	Gathering procedures
+22/06/2021 12:52:20	Gathering encrypted procedures
+22/06/2021 12:52:20	Gathering tables
+22/06/2021 12:52:21	Gathering primary keys
+22/06/2021 12:52:21	Gathering unique constraints
+22/06/2021 12:52:21	Gathering foreign keys
+22/06/2021 12:52:21	Gathering default constraints
+22/06/2021 12:52:21	Gathering check constraints
+22/06/2021 12:52:21	Gathering views
+22/06/2021 12:52:21	Gathering encrypted views
+22/06/2021 12:52:21	Gathering indexes
+22/06/2021 12:52:21	Gathering statistics
+22/06/2021 12:52:21	Gathering full-text index stoplists
+22/06/2021 12:52:21	Gathering search property lists
+22/06/2021 12:52:21	Gathering search properties
+22/06/2021 12:52:21	Gathering full-text indexes
+22/06/2021 12:52:21	Gathering column store indexes
+22/06/2021 12:52:21	Gathering spatial indexes
+22/06/2021 12:52:21	Gathering XML indexes
+22/06/2021 12:52:21	Gathering Selective XML indexes
+22/06/2021 12:52:21	Gathering encrypted triggers
+22/06/2021 12:52:21	Gathering triggers
+22/06/2021 12:52:21	Gathering encrypted and clr ddl triggers
+22/06/2021 12:52:21	Gathering ddl triggers
+22/06/2021 12:52:21	Gathering synonyms
+22/06/2021 12:52:21	Gathering defaults
+22/06/2021 12:52:21	Gathering data constraint uddt bindings
+22/06/2021 12:52:21	Gathering rules
+22/06/2021 12:52:21	Gathering data constraint uddt bindings
+22/06/2021 12:52:21	Gathering message types
+22/06/2021 12:52:21	Gathering queues
+22/06/2021 12:52:21	Gathering contracts
+22/06/2021 12:52:21	Gathering services
+22/06/2021 12:52:21	Gathering event notifications
+22/06/2021 12:52:21	Gathering remote service bindings
+22/06/2021 12:52:21	Gathering broker priorities
+22/06/2021 12:52:21	Gathering signatures
+22/06/2021 12:52:21	Gathering data compression options
+22/06/2021 12:52:21	Gathering sequence types
+22/06/2021 12:52:21	Gathering security policies
+22/06/2021 12:52:21	Gather column encryption keys
+22/06/2021 12:52:21	Gathering column master keys
+22/06/2021 12:52:21	Gathering external data sources
+22/06/2021 12:52:21	Gathering external file formats
+22/06/2021 12:52:21	Gathering external tables
+22/06/2021 12:52:21	Gathering extended properties
+22/06/2021 12:52:23	Gathering credentials
+22/06/2021 12:52:23	Gathering logins
+22/06/2021 12:52:23	Gathering server audits
+22/06/2021 12:52:29	Scanning project for duplicate elements
+22/06/2021 12:52:29	Finished duplicate element processing
+22/06/2021 12:52:30	Finished importing database.
+22/06/2021 12:52:30	A summary of the import was saved to the following location: C:\Users\eduar\source\repos\Atividade 15 - Banco de Dados Tarefas\BancoDeDados.ProjetoDataBase\Import Schema Logs\BancoDeDados.Projeto_20210622035151.log
+22/06/2021 12:52:30	Click Finish to continue...
